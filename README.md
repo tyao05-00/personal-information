@@ -9,3 +9,6 @@ During my personal time, I enjoy creating software engineering projects on my ow
 I’ve had the chance to participate in MLH official collegiate hackathons two times, during which I worked solo on “Crypto Club” and “B-Day Surprises”. The latter project submission was awarded “Best Use of Linode” at SurpriseHacks in March 2021. Should you be interested, please visit my Devpost portfolio to view more details about my hackathon submissions and/or my Github page to check out the source code of theirs along with that of other projects’.
 
 Since high school I’ve participated in a number of mathematics and programming competitions, both at the national and international level. Most recently I attended Google Kickstart 2021 Round A, at which I (username: tianhaoy) was placed among the top 5.23% of all contestants worldwide and ranked 19th in Canada. Prior to that, I achieved First Prize at National Olympiad in Informatics in provinces upper division (NOIP), Distinguished Honour Roll at American Mathematics Contest (AMC 10&12), and Finalist at Intl. Math Modeling Challenge (IM2C) co-hosted by COMAP.
+
+Github: https://github.com/tyao-t
+Devpost: https://devpost.com/tyao-t
